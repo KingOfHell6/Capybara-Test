@@ -26,8 +26,8 @@ A instalação do Ruby pode variar dependendo do sistema operacional. Seguem alg
 1. Clone o repositório do projeto:
 
    ```bash
-   git clone [URL_DO_PROJETO]
-   cd [NOME_DO_PROJETO]
+   git clone https://github.com/KingOfHell6/Capybara-Test.git
+   cd Capybara-Test
    ```
 
 2. Instale as dependências do projeto:
